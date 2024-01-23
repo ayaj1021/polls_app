@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "197932938957",
+    "project_id": "polls-app-ab081",
+    "storage_bucket": "polls-app-ab081.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:197932938957:android:0f74b4e075989ae9511b84",
+        "android_client_info": {
+          "package_name": "com.example.poll_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_3SNYxuXVwT4rxndDYTYeLPBcg0W6CMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
