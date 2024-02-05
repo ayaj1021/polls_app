@@ -1,16 +1,11 @@
 # poll_application
 
-A new Flutter project.
+This is a simple app that allows a user to create a poll and for other users to vote.
 
-## Getting Started
+This app allows a user to sign up using their email 
 
-This project is a starting point for a Flutter application.
+A poll creator can share the poll that has been created and users can vote
 
-A few resources to get you started if this is your first Flutter project:
+On this project, Firebase is used as the database.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+User details and polls are stored on firebase
